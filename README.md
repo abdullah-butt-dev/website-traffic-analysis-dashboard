@@ -1,5 +1,9 @@
 # Website Traffic Analysis Dashboard
 
+**Note**: This analysis uses synthetic e-commerce data. Conversion metrics represent 
+
+
+
 ## Project Overview
 
 This project analyzes website traffic and user engagement data to identify factors that influence conversion rates. The goal is to understand visitor behavior and provide actionable business recommendations.

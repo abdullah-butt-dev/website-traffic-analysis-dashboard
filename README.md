@@ -1,7 +1,6 @@
 # Website Traffic Analysis Dashboard
 
-**Note**: This analysis uses synthetic e-commerce data. Conversion metrics represent 
-
+**Note**: This analysis uses synthetic e-commerce data. 
 
 
 ## Project Overview
